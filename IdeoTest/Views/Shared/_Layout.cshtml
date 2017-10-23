@@ -1,0 +1,84 @@
+﻿<!DOCTYPE HTML>
+
+<html>
+<head>
+    <title>Nested Tree</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <script type="text/javascript" src="~/Scripts/jquery-1.7.1.min.js"></script>
+    <link href="~/Content/Template/Layout/angular.treeview.css" rel="stylesheet" />
+    <script src="~/Scripts/angular.min.js"></script>
+    <script src="~/Scripts/angular.treeview.js"></script>
+    <script src="~/Scripts/IdeoTest.js"></script>
+    
+    @Styles.Render("~/Content/css")  
+</head>
+<body>
+
+    <div id="wrapper">
+
+        <!-- Header -->
+        <header id="header" class="alt">
+            <h1>Nested tree</h1>
+            <p>
+               <b> Life is like a tree</b><br />
+                built by rafal.
+            </p>
+        </header>
+
+        <!-- Nav -->
+        <nav id="nav">
+            <ul>
+                <li>@Html.ActionLink("System Structure", "Index", "Home")</li>
+                <li>@Html.ActionLink("Nodes", "Index", "Nodes")</li>
+            </ul>
+        </nav>
+
+        <!-- Main -->
+        <div id="main">
+            <section id="intro" class="main">
+
+                <div class="spotlight">
+                    <div class="content">
+                        <p>
+                            @RenderBody()
+                        </p>
+
+                    </div>
+
+                </div>
+            </section>
+
+            <section id="cta" class="main special">
+                <header class="major">
+                    <h2>Lets plant your own life tree </h2>
+                 
+                </header>
+            </section>
+
+        </div>
+
+        <footer id="footer">
+            <section>
+                <h2>Nested Tree application</h2>
+                <p>Project was created by rafal, to confirm basic practices and skills <br> of programming in C# at platform .NET</p>
+            </section>
+            <section>
+                <h2>Contact with me</h2>
+                <dl class="alt">
+                    <dt>Address</dt>
+                    <dd>Poznanska 2B &bull; Rzeszow city, 35-084 &bull; Poland</dd>
+                    <dt>Phone</dt>
+                    <dd>(+48) 519825694</dd>
+                    <dd>(+48) 733761434</dd>
+                    <dt>Email</dt>
+                    <dd><a href="#">rafal.kuc007@gmail.com</a></dd>
+                </dl>
+
+            </section>
+            <p class="copyright">&copy; Web service created by rafal</a>.</p>
+        </footer>
+
+    </div>
+</body>
+</html>

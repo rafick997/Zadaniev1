@@ -1,0 +1,301 @@
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\ApplicationInsights.config
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\csc.exe
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\vbc.exe
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\IdeoTest.dll.config
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\IdeoTest.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\IdeoTest.pdb
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Antlr3.Runtime.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Newtonsoft.Json.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Helpers.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Mvc.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Optimization.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Razor.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\WebGrease.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Helpers.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Mvc.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Optimization.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.Razor.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Antlr3.Runtime.pdb
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\Newtonsoft.Json.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.pdb
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\EntityFramework.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.dll
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\EntityFramework.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.xml
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.First.resources
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.csproj.GenerateResource.Cache
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.Nullabletype.resources
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.Treetype.resources
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.Tree.resources
+E:\Projekty z DB\IdeoTest\IdeoTest\obj\Debug\IdeoTest.csprojResolveAssemblyReference.cache
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.pdb
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\ApplicationInsights.config
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\csc.exe
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\vbc.exe
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\VBCSCompiler.exe
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\IdeoTest.dll.config
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\IdeoTest.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\IdeoTest.pdb
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Antlr3.Runtime.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\EntityFramework.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\EntityFramework.SqlServer.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Web.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.ApplicationInsights.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Newtonsoft.Json.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Helpers.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Mvc.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Optimization.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Razor.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Deployment.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Razor.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\WebGrease.dll
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\EntityFramework.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\EntityFramework.SqlServer.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Web.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.ApplicationInsights.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Helpers.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Mvc.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Optimization.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.Razor.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Deployment.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Razor.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Antlr3.Runtime.pdb
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\bin\Newtonsoft.Json.xml
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.Reset.resources
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.csproj.GenerateResource.Cache
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.Rename.resources
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.Rename8.resources
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.Addkind.resources
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.csprojResolveAssemblyReference.cache
+E:\Projekty z DB\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.Addkindas.resources
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\ApplicationInsights.config
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\csc.exe
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\vbc.exe
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\VBCSCompiler.exe
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\IdeoTest.dll.config
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\IdeoTest.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\IdeoTest.pdb
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Antlr3.Runtime.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\EntityFramework.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\EntityFramework.SqlServer.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Web.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Newtonsoft.Json.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Helpers.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Mvc.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Optimization.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Razor.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Razor.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\WebGrease.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\EntityFramework.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\EntityFramework.SqlServer.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.Web.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Helpers.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Mvc.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Optimization.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.Razor.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\System.Web.WebPages.Razor.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Antlr3.Runtime.pdb
+E:\Projekt\IdeoTest — kopia\IdeoTest\bin\Newtonsoft.Json.xml
+E:\Projekt\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.csprojResolveAssemblyReference.cache
+E:\Projekt\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.dll
+E:\Projekt\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.pdb
+E:\Projekt\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.Migrations.M1.resources
+E:\Projekt\IdeoTest — kopia\IdeoTest\obj\Debug\IdeoTest.csproj.GenerateResource.Cache
+E:\Projekt\IdeoTest\IdeoTest\obj\Debug\IdeoTest.dll
+E:\Projekt\IdeoTest\IdeoTest\obj\Debug\IdeoTest.pdb
+E:\Projekt\IdeoTest\IdeoTest\bin\ApplicationInsights.config
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\csc.exe
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\vbc.exe
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe
+E:\Projekt\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Projekt\IdeoTest\IdeoTest\bin\IdeoTest.dll.config
+E:\Projekt\IdeoTest\IdeoTest\bin\IdeoTest.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\IdeoTest.pdb
+E:\Projekt\IdeoTest\IdeoTest\bin\Antlr3.Runtime.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\EntityFramework.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\Newtonsoft.Json.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Helpers.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Mvc.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Optimization.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Razor.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\WebGrease.dll
+E:\Projekt\IdeoTest\IdeoTest\bin\EntityFramework.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Helpers.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Mvc.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Optimization.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.Razor.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.xml
+E:\Projekt\IdeoTest\IdeoTest\bin\Antlr3.Runtime.pdb
+E:\Projekt\IdeoTest\IdeoTest\bin\Newtonsoft.Json.xml
+E:\Projekt\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.DeletedChild.resources
+E:\Projekt\IdeoTest\IdeoTest\obj\Debug\IdeoTest.csproj.GenerateResource.Cache
+E:\Ideo\IdeoTest\IdeoTest\obj\Debug\IdeoTest.dll
+E:\Ideo\IdeoTest\IdeoTest\obj\Debug\IdeoTest.pdb
+E:\Ideo\IdeoTest\IdeoTest\bin\ApplicationInsights.config
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\csc.exe
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\System.Collections.Immutable.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\vbc.exe
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe
+E:\Ideo\IdeoTest\IdeoTest\bin\roslyn\VBCSCompiler.exe.config
+E:\Ideo\IdeoTest\IdeoTest\bin\IdeoTest.dll.config
+E:\Ideo\IdeoTest\IdeoTest\bin\IdeoTest.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\IdeoTest.pdb
+E:\Ideo\IdeoTest\IdeoTest\bin\Antlr3.Runtime.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\EntityFramework.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.Web.Infrastructure.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\Newtonsoft.Json.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Helpers.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Mvc.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Optimization.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Razor.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\WebGrease.dll
+E:\Ideo\IdeoTest\IdeoTest\bin\EntityFramework.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\EntityFramework.SqlServer.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.Web.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.AI.WindowsServer.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.ApplicationInsights.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Helpers.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Mvc.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Optimization.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.Razor.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.Deployment.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\System.Web.WebPages.Razor.xml
+E:\Ideo\IdeoTest\IdeoTest\bin\Antlr3.Runtime.pdb
+E:\Ideo\IdeoTest\IdeoTest\bin\Newtonsoft.Json.xml
+E:\Ideo\IdeoTest\IdeoTest\obj\Debug\IdeoTest.csprojResolveAssemblyReference.cache
+E:\Ideo\IdeoTest\IdeoTest\obj\Debug\IdeoTest.Migrations.Initial.resources
+E:\Ideo\IdeoTest\IdeoTest\obj\Debug\IdeoTest.csproj.GenerateResource.Cache

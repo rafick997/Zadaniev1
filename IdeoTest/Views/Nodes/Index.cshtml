@@ -1,0 +1,79 @@
+﻿@model IEnumerable<Node>
+
+@{
+    ViewBag.Title = "Index";
+    ModelContext db = new ModelContext();
+    List<Node> nodes = new List<Node>();
+    nodes = db.Nodes.ToList();
+    var dict = nodes.ToDictionary(d => d.NodeId, d => d.Name);
+}
+
+
+<h2>All Nodes</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+         @Html.ActionLink("Name", "Index", new { sortBy = ViewBag.SortNameParameter })
+        </th>
+
+        <th>
+            @Html.ActionLink("Parent Name", "Index", new { sortBy = ViewBag.SortParentIDParameter })
+        </th>
+        <th>
+            @Html.ActionLink("Type", "Index", new { sortBy = ViewBag.SortKindParameter })
+        </th>
+        <th>
+         @Html.DisplayName("Actions") 
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+
+            <td>
+                @{
+                    if (!(item.NodeId == 19))
+                    {
+                        int a = (int)item.ParentId;
+                     @Html.Raw(dict[a])
+                    }
+                    else
+                    {
+                     @Html.DisplayName("Null")
+                    }
+             }
+
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kind)
+            </td>
+
+            <td>
+                 @{
+                     if (!(item.Kind == "Root"))
+                     {
+                     @Html.ActionLink("Edit", "Edit", new { id = item.NodeId }); @:|
+                        @Html.ActionLink("Delete", "Delete", new { id = item.NodeId });
+
+                     }
+                     else
+                     {
+                        @Html.ActionLink("Edit Name", "Edit", new { id = item.NodeId });
+                     }
+
+}
+
+            </td>
+        </tr>
+
+                     }
+</table>
